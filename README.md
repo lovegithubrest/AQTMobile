@@ -1,37 +1,13 @@
-> Due to costs and lack of interest, I’ve had to take down the Charter service. 
->
-> If you’re interested in running your own copy, get in touch and I can send you the database backups.
-
 <br/>
 <br/>
 
 <p align="center">
-  <img src="http://i.imgur.com/ClrkeeK.png" />
+  A Qualification Testing iOS App with mailing feature.
 </p>
-
-<p align="center">
-  An iOS client for the Swift mailing lists by <a href="http://twitter.com/_matthewpalmer"</a>@_matthewpalmer</a>.
-</p>
-
-<p align="center">
-<br/>
-<img src="Documentation%20Resources/screenshot-1.png" width="250" /><img src="Documentation%20Resources/screenshot-2.png" width="250" />
-<br/>
-</p>
-
-<div height = "200" width = "500" bgcolor="#f6f6f6" align="center">
-    <a href="https://itunes.apple.com/us/app/charter-mailing-list-client/id1082212697?ls=1&amp;mt=8"><img src="http://matthewpalmer.net/charter/app-store.svg"></a>
-    <br/>
-    <a href="http://tiny.cc/charter-app">tiny.cc/charter-app</a>
-</div>
 
 ## Details
 
-**How do I run the iOS app?**
-
-You can [download it from the App Store](https://itunes.apple.com/us/app/charter-mailing-list-client/id1082212697?ls=1&amp;mt=8) or run it yourself:
-
-1. `git clone https://github.com/matthewpalmer/Charter`
+1. `git clone https://github.com/lovegithubrest/AQTMobile`
 2. `cd iOS/Charter`
 3. `pod install`
 4. `open Charter.xcworkspace`
